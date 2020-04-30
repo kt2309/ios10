@@ -1,0 +1,8 @@
+Origin: AutoLeadXXX IOS Repo XXX
+Label: AutoLeadXXX IOS Repo XXX
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: AutoLeadXXX IOS Repo XXX for Device Model 10.x - 12.2 & 12.4.5
